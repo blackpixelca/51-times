@@ -1307,6 +1307,10 @@ collections:
             label: Text
             name: '-7c112e99'
             widget: string
+          - hint: 'Original text: View full listing →, key: -f3d7aa0'
+            label: Text
+            name: '-f3d7aa0'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1381,6 +1385,13 @@ collections:
           - hint: 'Original link: http://blackpixel.ca, key: 19a774f3'
             label: Link
             name: 19a774f3
+            widget: string
+          - hint: >-
+              Original link:
+              http://v3.torontomls.net/Live/Pages/Public/Link.aspx?Key=555fa24231d24ba4a42885beb66a1df5&App=TREB,
+              key: aaad0f1
+            label: Link
+            name: aaad0f1
             widget: string
       - label: Images
         name: images
