@@ -952,6 +952,11 @@ blockquote {
   font-weight: 300;
 }
 
+.wrapper {
+  overflow: hidden;
+  width: 100dvw;
+}
+
 .form-grid {
   display: -ms-grid;
   display: grid;

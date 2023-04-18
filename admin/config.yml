@@ -1393,6 +1393,10 @@ collections:
             label: Link
             name: aaad0f1
             widget: string
+          - hint: 'Original link: /, key: 2f'
+            label: Link
+            name: 2f
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
